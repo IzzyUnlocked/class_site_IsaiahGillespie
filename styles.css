@@ -4,3 +4,7 @@ p {
 .jojo {
 		color:cyan;
 	}
+	img {
+  max-width: 30%;
+  height: auto;
+}
