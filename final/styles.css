@@ -1,0 +1,28 @@
+p {
+		color: white;
+		font-size:1.5vw;
+		font-family: "Helvetica Neue", "Arial", sans-serif;
+	}
+h1 {
+	font-size:3.5vw;
+	color:cyan;
+}
+h2{
+	color:cyan;
+	font-size:3.5vw;
+}
+.jojo {
+		color:cyan;
+	}
+	img {
+  max-width: 45%;
+  height: auto;
+}
+body {
+	background-color:#696969;
+	position: center;
+}
+video {
+  width: 70%    !important;
+  height: auto   !important;
+}
